@@ -1,0 +1,20 @@
+{
+  "name": "EMOttoDIYLib",
+  "version": "1.0",
+  "description": " Arduino library for controlling original Otto DIY bipedal robots",
+  "keywords": "EMOtto , otto, ottodiy, robot, servo",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "authors": [
+    {
+      "name": "",
+      "url": "",
+      "maintainer": true
+    }
+  ],
+  "license": "GPL-3.0-or-later",
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}

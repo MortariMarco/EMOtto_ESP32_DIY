@@ -1,0 +1,7 @@
+EMOtto ESP32 2.0 — programma, librerie, app e file per il montaggio.
+
+Estrarre lo ZIP e leggere LEGGIMI.md. Lo sketch da aprire è Firmware/EMOttoESP32_2_0/EMOttoESP32_2_0.ino. Nella distribuzione Printables scaricare EMOttoDIYLib.zip e TFT_eSPI.zip dagli allegati separati; nella distribuzione GitHub usare le cartelle Librerie. Installare le due librerie, quindi le dipendenze indicate nelle istruzioni. Nella cartella App sono inclusi l’APK da installare su Android e il progetto sorgente .aia da importare in MIT App Inventor per modificare l’app.
+
+Le tracce musicali 4, 31, 35, 36 e 37 non sono distribuite per copyright. Per completare quelle funzioni usare personalmente audio di cui si possiedono i diritti, mantenendo gli abbinamenti del programma. Il firmware originale usa gli indici del DFPlayer: controllare l'ordine effettivo sulla microSD.
+
+Sono inclusi schema dei collegamenti e STL. Scheda/versioni e risultati della prova sul robot devono essere riportati dall'autore prima di dichiarare questa distribuzione testata.
